@@ -1,4 +1,4 @@
-import 'server-only'
+// import 'server-only'
 
 export const metadata = {
   title: 'App Router',
